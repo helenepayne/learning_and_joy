@@ -10,7 +10,7 @@ This repository contains protocols, codebooks, survey instruments, and related f
 
 | File | Description |
 |------|-------------|
-| **Code Co-Occurrence_DedooseChart.pdf** | Visual output from Dedoose showing co‑occurrence of thematic codes from focus group transcripts and survey free response questions. |
+| **Code Co-Occurrence_DedooseChart.pdf** | Visual output from Dedoose showing co‑occurrence of thematic codes from focus group transcripts and survey free-response questions. |
 | **Ecomedicine SABER 2025 Poster.pptx** | Conference poster from SABER West 2025 summarizing key findings from the study. |
 | **Focus Group Consent Form.pdf** | Consent form provided to participants prior to focus group interviews. |
 | **Focus Group Protocol.pdf** | Interview protocol and guiding questions for focus groups. |
